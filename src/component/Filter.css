@@ -1,0 +1,14 @@
+.filter{
+    margin: 25px;
+}
+.form-check{
+    margin-top: 5px;
+}
+.lable{
+    font-size: larger;
+    font-weight:bold;
+}
+.filteradjust{
+    display: flex;
+    flex-direction: column;
+}
